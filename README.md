@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a group course project in CSCB07 at UTSC in 2020 Fall. 
+This is a group course project for CSCB07 at UTSC in 2020 Fall. 
 
 Just like what Unix Shell does, the program can take in and parse the user input (command lines), then run the command as expected.
 
