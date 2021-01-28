@@ -33,10 +33,12 @@ To run the program, build and run `driver/JShell.java`.
 - search path ... -type [f|d] -name expression
 - tree
 
-To see the detailed descriptions of each command, you can either check the `commands-descriptions.pdf` in the repository or use the "man COMMAND" command.
+For detailed descriptions of each command, you can either:
+check `commands-descriptions.pdf` in the repository ***OR*** run the "man COMMAND" command in the mock shell.
 
 ## Contributors
 - Archie Liu
 - Leo Yu
 - Ivan Shen
 - Charlie Zhu
+
