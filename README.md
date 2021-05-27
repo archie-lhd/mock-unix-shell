@@ -34,7 +34,7 @@ To run the program, build and run `driver/JShell.java`.
 - tree
 
 For detailed descriptions of each command, you can either:
-check `commands-descriptions.pdf` in the repository ***OR*** run the "man COMMAND" command in the mock shell.
+check `commands-descriptions.pdf` in the repository ***OR*** run the "man COMMAND" command in the mock java shell.
 
 ## Contributors
 - Archie Liu
